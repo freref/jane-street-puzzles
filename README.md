@@ -1,5 +1,5 @@
 # jane-street-puzzles
-My solutions to the [Jane Street Puzzles](https://www.janestreet.com/puzzles/).
+My solutions to the [Jane Street Puzzles](https://www.janestreet.com/puzzles/). A leaderboard can be found [here](https://jspuzzle-lb.vercel.app/).
 
 
 | Date      | Puzzle Name                                                                   | File                                                                 | Verified Solver |
